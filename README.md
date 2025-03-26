@@ -1,4 +1,4 @@
-# Ejercicio 6: El Caballo de Atila
+#  El Caballo de Atila
 
 ## Descripción del Problema
 En este ejercicio, se debe deducir el recorrido completo realizado por el caballo de Atila en un jardín de n x n casillas. El caballo comenzó en una casilla aleatoria, realizó un recorrido cerrado sin pisar dos veces la misma casilla y se movió solo en direcciones horizontales o verticales (nunca en diagonal). El pasto en las casillas que el caballo visitó nunca volvió a crecer.
@@ -12,7 +12,7 @@ Este ejercicio es útil para problemas de recorrido y trazado de rutas en gráfi
 
 ------------------------------------------------------
 
-# Exercise 6: Atila's Horse
+# Atila's Horse
 
 ## Problem Description
 In this exercise, we need to deduce the complete path taken by Atila's horse on a garden grid of size n x n. The horse started at any random cell, made a closed loop without revisiting any cell, and moved only in horizontal or vertical directions (never diagonally). The grass in the cells the horse visited will never grow back.
